@@ -1,6 +1,8 @@
 ﻿#!/usr/bin/python
 # Filename: VnpBook.py
 
+#Created by Remy Berg, 08/12/15
+
 import urllib2
 
 
